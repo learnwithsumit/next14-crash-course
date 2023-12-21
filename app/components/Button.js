@@ -1,3 +1,5 @@
+"use client";
+
 export default function Button() {
     return (
         <div className="mt-5">

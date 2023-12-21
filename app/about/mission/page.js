@@ -1,5 +1,3 @@
-"use client";
-
 import Button from "@/app/components/Button";
 import thumb from "@/public/images/thumb.jpg";
 import Image from "next/image";
